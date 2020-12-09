@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/amex23/janamir-xavier.git/static/css/main.bd1cfa51.chunk.css",
+    "main.js": "/amex23/janamir-xavier.git/static/js/main.eb01f233.chunk.js",
+    "main.js.map": "/amex23/janamir-xavier.git/static/js/main.eb01f233.chunk.js.map",
+    "runtime-main.js": "/amex23/janamir-xavier.git/static/js/runtime-main.12c86ade.js",
+    "runtime-main.js.map": "/amex23/janamir-xavier.git/static/js/runtime-main.12c86ade.js.map",
+    "static/css/2.242f24fe.chunk.css": "/amex23/janamir-xavier.git/static/css/2.242f24fe.chunk.css",
+    "static/js/2.1a3e2210.chunk.js": "/amex23/janamir-xavier.git/static/js/2.1a3e2210.chunk.js",
+    "static/js/2.1a3e2210.chunk.js.map": "/amex23/janamir-xavier.git/static/js/2.1a3e2210.chunk.js.map",
+    "index.html": "/amex23/janamir-xavier.git/index.html",
+    "precache-manifest.2810d5bd6ce839afff9bb9724bd9b969.js": "/amex23/janamir-xavier.git/precache-manifest.2810d5bd6ce839afff9bb9724bd9b969.js",
+    "service-worker.js": "/amex23/janamir-xavier.git/service-worker.js",
+    "static/css/2.242f24fe.chunk.css.map": "/amex23/janamir-xavier.git/static/css/2.242f24fe.chunk.css.map",
+    "static/css/main.bd1cfa51.chunk.css.map": "/amex23/janamir-xavier.git/static/css/main.bd1cfa51.chunk.css.map",
+    "static/js/2.1a3e2210.chunk.js.LICENSE": "/amex23/janamir-xavier.git/static/js/2.1a3e2210.chunk.js.LICENSE",
+    "static/media/1x1.png": "/amex23/janamir-xavier.git/static/media/1x1.2d25f5ef.png",
+    "static/media/accessfort.png": "/amex23/janamir-xavier.git/static/media/accessfort.6f2dbe6e.png",
+    "static/media/airfort.png": "/amex23/janamir-xavier.git/static/media/airfort.a965b391.png",
+    "static/media/bluefort.png": "/amex23/janamir-xavier.git/static/media/bluefort.5614c630.png",
+    "static/media/dark-star.png": "/amex23/janamir-xavier.git/static/media/dark-star.73381133.png",
+    "static/media/diagfort.png": "/amex23/janamir-xavier.git/static/media/diagfort.cfbd416c.png",
+    "static/media/font-awesome.css": "/amex23/janamir-xavier.git/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/iojobsfort.png": "/amex23/janamir-xavier.git/static/media/iojobsfort.b4a4d324.png",
+    "static/media/ionicons.css": "/amex23/janamir-xavier.git/static/media/ionicons.c037dbbc.svg",
+    "static/media/male.png": "/amex23/janamir-xavier.git/static/media/male.a82ab1cd.png",
+    "static/media/myImage.png": "/amex23/janamir-xavier.git/static/media/myImage.bd80794f.png",
+    "static/media/plastfort.png": "/amex23/janamir-xavier.git/static/media/plastfort.1e6c40c1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12c86ade.js",
+    "static/css/2.242f24fe.chunk.css",
+    "static/js/2.1a3e2210.chunk.js",
+    "static/css/main.bd1cfa51.chunk.css",
+    "static/js/main.eb01f233.chunk.js"
+  ]
+}
